@@ -1,4 +1,4 @@
-# Hi, I'm Mooni 👋
+# Hi, I'm Wish 👋
 
 Front-end & Python developer exploring web apps and parsers
 
